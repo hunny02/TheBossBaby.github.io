@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="docs/comingSoon.css">
-	<title></title>
+	<title>Spoiler</title>
 </head>
 <body>
 	<!----------------------------------------------------------------------------------------------------->
