@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="docs/comingSoon.css">
+	<link rel="stylesheet" type="text/css" href="../docs/comingSoon.css">
 	<title>Spoiler</title>
 </head>
 <body>
 	<!----------------------------------------------------------------------------------------------------->
-	<script type="text/javascript" src="docs/comingSoon.js"></script>
+	<script type="text/javascript" src="../docs/comingSoon.js"></script>
 	<!----------------------------------------------------------------------------------------------------->
 	<div class="bgimg">
 		<div class="topleft">
