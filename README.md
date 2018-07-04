@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="/home/bossbaby/Desktop/Text-Game/Coming Soon/comingSoon.css">
+	<link rel="stylesheet" type="text/css" href="docs/comingSoon.css">
 	<title></title>
 </head>
 <body>
 	<!----------------------------------------------------------------------------------------------------->
-	<script type="text/javascript" src="/home/bossbaby/Desktop/Text-Game/Coming Soon/comingSoon.js"></script>
+	<script type="text/javascript" src="docs/comingSoon.js"></script>
 	<!----------------------------------------------------------------------------------------------------->
 	<div class="bgimg">
 		<div class="topleft">
