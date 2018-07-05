@@ -28,8 +28,6 @@ body, html {
     position: absolute;
     top: 0;
     left: 16px;
-    width: 40px;
-    height: 40px;
 }
 
 /* Position text in the bottom-left corner */
